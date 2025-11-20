@@ -1,3 +1,5 @@
+![Solar System Simulator](images/simulator.png)
+
 # Solar System Simulator (Java)
 
 A Java-based Solar System simulator built with Swing and AWT. It displays the Sun and all major planets with simple orbital animation and provides short descriptive information about each planet.
