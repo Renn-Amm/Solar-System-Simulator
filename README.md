@@ -1,4 +1,4 @@
-![Solar System Simulator](images/simulator.png)
+![Solar System Simulator](images/sample.png)
 
 # Solar System Simulator (Java)
 
