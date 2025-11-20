@@ -1,5 +1,3 @@
-<img src="images/sample.png" alt="Solar System Simulator Preview" width="400" height="400" />
-
 # Solar System Simulator (Java)
 
 A Java-based Solar System simulator built with Swing and AWT. It displays the Sun and all major planets with simple orbital animation and provides short descriptive information about each planet.
@@ -7,6 +5,8 @@ A Java-based Solar System simulator built with Swing and AWT. It displays the Su
 ## Description
 
 The simulator renders a minimal, simplified Solar System. Each planet has a defined size, color, and orbit radius. A timer updates orbital angles to animate motion around the Sun. Descriptions for all eight major planets are included, covering basic characteristics and notable features.
+
+<img src="images/sample.png" alt="Solar System Simulator Preview" width="400" height="400" />
 
 ## Features
 
