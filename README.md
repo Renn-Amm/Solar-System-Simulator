@@ -1,4 +1,4 @@
-![Solar System Simulator](images/sample.png)
+<img src="images/sample.png" alt="Solar System Simulator Preview" width="400" height="400" />
 
 # Solar System Simulator (Java)
 
